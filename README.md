@@ -36,3 +36,13 @@ Partly following [System Design Primer Repository by Donne Martin](https://githu
 
 </details>
 
+</details>
+
+<details>
+<summary><h2>Interview Preparation</h2></summary>
+
+- [ ] [GitHub Repository: MLE Flashcards](https://github.com/b7leung/MLE-Flashcards)
+
+
+</details>
+
