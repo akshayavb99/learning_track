@@ -7,6 +7,8 @@ Space to track what I am learning. Inspired by and referenced from the track_lea
 - [ ] [Youtube: Python - Intermediate and Advanced Features](https://www.youtube.com/playlist?list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx)
   - [X] [Function Argument Unpacking](https://www.youtube.com/watch?v=YWY4BZi_o28&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx&index=3) ([GitHub Gist](https://gist.github.com/akshayavb99/eba66d257ac39cf3def172389723ee32))
   - [X] [String Conversion in Python: When to Use \_\_repr\_\_ vs \_\_str\_\_](https://www.youtube.com/watch?v=aIdzBGzaxUo&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx&index=5) ([GitHub Gist](https://gist.github.com/akshayavb99/0d9c1e30551219cab16bcdcc0e59ad5d))
+  - [X] [Understanding \@classmethod, \@staticmethod, and regular methods](https://www.youtube.com/watch?v=PNpt7cFjGsM&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx&index=6) ([GitHub Gist](https://gist.github.com/akshayavb99/f92fbe70cf19140b007ea14bfa60383e))
+  - [ ] [\*args and \*\*kwargs receipes for clean Python](https://www.youtube.com/watch?v=WcTXxX3vYgY&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx&index=7)
 
 </details>
 
@@ -32,7 +34,19 @@ Partly following [System Design Primer Repository by Donne Martin](https://githu
 <h3>Inference and System Design</h3>
 
 - [ ] [Book: The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling, 3rd Edition](https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802/ref=sr_1_1?crid=3G9QBHWDUTMCT&keywords=the+data+warehouse+toolkit+3rd+edition&qid=1662913405&sprefix=the+data+warehouse+to%2Caps%2C102&sr=8-1)
-
+  - [X] Chapter 1: Data Warehousing, Business Intelligence, and Dimensional Modeling Primer
+  - [X] Chapter 2: Kimball Dimensional Modeling Techniques Overview
+  - [X] Chapter 3: Retail Sales
+  - [ ] Chapter 4: Inventory 
+  
+<h3> Natural Language Processing </h3>
+  
+- [ ] [Coursera: Natural Language Processing Specialization by DeepLearning.AI](https://www.coursera.org/specializations/natural-language-processing?)
+  - [ ] [Coursera: Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp)
+    - [X] Week 1: Sentiment Analysis with Logistic Regression
+    - [X] Week 2: Sentiment Analysis with Naive Bayes
+    - [ ] Week 3: Vector Space Models
+    - [ ] Week 4: Machine Translation and Document Search
 
 </details>
 
