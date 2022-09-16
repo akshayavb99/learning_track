@@ -11,6 +11,8 @@ Space to track what I am learning. Inspired by and referenced from the track_lea
   - [X] [\*args and \*\*kwargs receipes for clean Python](https://www.youtube.com/watch?v=WcTXxX3vYgY&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx&index=7) ([GitHub Gist](https://gist.github.com/akshayavb99/0ac0e11d1dc65a8ec2f3752063733f41))
   - [X] [Python Context managers and 'with statement' (\_\_enter\_\_ and \_\_exit\_\_)](https://www.youtube.com/watch?v=iba-I4CrmyA&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx&index=8) ([GitHub Gist](https://gist.github.com/akshayavb99/219ec27339dace96115e760b2563e8c6))
   - [ ] [Implicit 'Return None' Statements in Python](https://www.youtube.com/watch?v=IobOuSyfExc&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx&index=12) ([GitHub Gist]())
+  
+- [ ] [Book: CPython Internals](https://realpython.com/products/cpython-internals-book/?utm_source=web&utm_medium=redirect&utm_campaign=cpythoninternals.com)
 
 </details>
 
