@@ -4,11 +4,13 @@ Space to track what I am learning. Inspired by and referenced from the track_lea
 <details>
 <summary><h2>Python</h2></summary>
 
-- [ ] [Youtube: Python - Intermediate and Advanced Features](https://www.youtube.com/playlist?list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx)
+- [ ] [Youtube (Real Python): Python - Intermediate and Advanced Features](https://www.youtube.com/playlist?list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx)
   - [X] [Function Argument Unpacking](https://www.youtube.com/watch?v=YWY4BZi_o28&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx&index=3) ([GitHub Gist](https://gist.github.com/akshayavb99/eba66d257ac39cf3def172389723ee32))
   - [X] [String Conversion in Python: When to Use \_\_repr\_\_ vs \_\_str\_\_](https://www.youtube.com/watch?v=aIdzBGzaxUo&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx&index=5) ([GitHub Gist](https://gist.github.com/akshayavb99/0d9c1e30551219cab16bcdcc0e59ad5d))
   - [X] [Understanding \@classmethod, \@staticmethod, and regular methods](https://www.youtube.com/watch?v=PNpt7cFjGsM&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx&index=6) ([GitHub Gist](https://gist.github.com/akshayavb99/f92fbe70cf19140b007ea14bfa60383e))
-  - [ ] [\*args and \*\*kwargs receipes for clean Python](https://www.youtube.com/watch?v=WcTXxX3vYgY&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx&index=7)
+  - [X] [\*args and \*\*kwargs receipes for clean Python](https://www.youtube.com/watch?v=WcTXxX3vYgY&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx&index=7) ([GitHub Gist](https://gist.github.com/akshayavb99/0ac0e11d1dc65a8ec2f3752063733f41))
+  - [X] [Python Context managers and 'with statement' (\_\_enter\_\_ and \_\_exit\_\_)](https://www.youtube.com/watch?v=iba-I4CrmyA&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx&index=8) ([GitHub Gist](https://gist.github.com/akshayavb99/219ec27339dace96115e760b2563e8c6))
+  - [ ] [Implicit 'Return None' Statements in Python](https://www.youtube.com/watch?v=IobOuSyfExc&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx&index=12) ([GitHub Gist]())
 
 </details>
 
