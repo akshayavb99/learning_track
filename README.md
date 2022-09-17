@@ -36,6 +36,16 @@ Partly following [System Design Primer Repository by Donne Martin](https://githu
 <details>
 <summary><h2>Data Science and ML</h2></summary>
 
+<h3> Core ML and Deep Learning </h3>
+
+<!-- Solutions for ISLR, 2nd edition: https://botlnec.github.io/islp/#an-introduction-to-statistical-learning-with-applications-in-r-with-python --->
+<!-- Solutions for ISLR, 2nd edition: https://github.com/MichaelABryant/an-introduction-to-statistical-learning-2e-code --->
+
+- [ ] [Book: An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/)
+  - [ ] [Kaggle: Datasets in ISLR, second edition](https://www.kaggle.com/datasets/hongpeiyi/datasets-in-islr-second-edition)
+  - [ ] Chapter 1 - Introduction
+  - [ ]  Chapter 2 - Statistical Learning
+
 <h3>Inference and System Design</h3>
 
 - [ ] [Book: The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling, 3rd Edition](https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802/ref=sr_1_1?crid=3G9QBHWDUTMCT&keywords=the+data+warehouse+toolkit+3rd+edition&qid=1662913405&sprefix=the+data+warehouse+to%2Caps%2C102&sr=8-1)
@@ -60,7 +70,11 @@ Partly following [System Design Primer Repository by Donne Martin](https://githu
 <details>
 <summary><h2>Interview Preparation</h2></summary>
 
+- [ ] Book: Machine Learning Interviews
+  - [ ] [Web version](https://huyenchip.com/ml-interviews-book/)
+  - [ ] [GitHub version + Answers](https://github.com/chiphuyen/ml-interviews-book)
 - [ ] [GitHub Repository: MLE Flashcards](https://github.com/b7leung/MLE-Flashcards)
+- [ ] [arXiv: Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://arxiv.org/abs/2201.00650)
 
 
 </details>
