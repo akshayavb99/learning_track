@@ -31,6 +31,10 @@ Space to track what I am learning. Inspired by and referenced from the track_lea
 
 Partly following [System Design Primer Repository by Donne Martin](https://github.com/donnemartin/system-design-primer)
 
+- [ ] [YouTube (ByteByteGo): System Design Fundamentals](https://www.youtube.com/playlist?list=PLCRMIe5FDPse7NNmQP5UziLjXjkHW3gqA)
+  - [X] [System Design: Why is single-threaded Redis so fast?](https://www.youtube.com/watch?v=5TRFpFBccQM&list=PLCRMIe5FDPse7NNmQP5UziLjXjkHW3gqA&index=1)
+  - [X] [HTTP\/1 to HTTP\/2 to HTTP\/3](https://www.youtube.com/watch?v=a-sBfyiXysI&list=PLCRMIe5FDPse7NNmQP5UziLjXjkHW3gqA&index=2)
+
 </details>
 
 <details>
