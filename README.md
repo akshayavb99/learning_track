@@ -39,6 +39,9 @@ Partly following [System Design Primer Repository by Donne Martin](https://githu
 
 <details>
 <summary><h2>Data Science and ML</h2></summary>
+  
+<h3> PyTorch </h3>
+- [ ] [YouTube (Daniel Bourke): Learn PyTorch for deep learning in a day. Literally.](https://www.youtube.com/watch?v=Z_ikDlimN6A)
 
 <h3> Core ML and Deep Learning </h3>
 
