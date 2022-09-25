@@ -61,11 +61,16 @@ Partly following [System Design Primer Repository by Donne Martin](https://githu
 <h3> Natural Language Processing </h3>
   
 - [ ] [Coursera: Natural Language Processing Specialization by DeepLearning.AI](https://www.coursera.org/specializations/natural-language-processing?)
-  - [ ] [Coursera: Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp)
+  - [X] [Course 1: Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp)
     - [X] Week 1: Sentiment Analysis with Logistic Regression
     - [X] Week 2: Sentiment Analysis with Naive Bayes
-    - [ ] Week 3: Vector Space Models
-    - [ ] Week 4: Machine Translation and Document Search
+    - [X] Week 3: Vector Space Models
+    - [X] Week 4: Machine Translation and Document Search
+  - [ ] [Course 2: Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp)
+    - [ ] Week 1: Autocorrect and Minimum Edit Distance
+    - [ ] Week 2: Parts of Speech Tagging and Hidden Markov Models
+    - [ ] Week 3: Autocomplete and Language Models
+    - [ ] Week 4: Word Embeddings with Neural Networks
 
 </details>
 
