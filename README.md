@@ -23,7 +23,8 @@ Space to track what I am learning. Inspired by and referenced from the track_lea
   - [X] [01 - Relational Models and Relational Algebra](https://www.youtube.com/watch?v=uikbtpVZS2s&list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf) ([Notes](https://www.notion.so/akshaya-balaji/CMU-Intro-to-Database-Systems-Fall-2022-1bb47b0f53aa4dc9a42fb7029e42a8af#048ac8f44ef4435d8f37c8a8e9ed354a))
   - [X] [02 - Modern SQL](https://www.youtube.com/watch?v=II5qNuxfSoo&list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf&index=2) ([Notes](https://www.notion.so/akshaya-balaji/CMU-Intro-to-Database-Systems-Fall-2022-1bb47b0f53aa4dc9a42fb7029e42a8af#65fda5f3cfa147fdb36e71db2ccf0e98))
   - [X] [03 - Database Storage 1](https://www.youtube.com/watch?v=df-l2PxUidI&list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf&index=3) ([Notes](https://www.notion.so/akshaya-balaji/CMU-Intro-to-Database-Systems-Fall-2022-1bb47b0f53aa4dc9a42fb7029e42a8af#90f718274a664ce6b8616ec884bdbec3))
-  - [ ] [04 - Database Storage 2](https://www.youtube.com/watch?v=2HtfGdsrwqA&list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf&index=4) ([Notes](https://www.notion.so/akshaya-balaji/CMU-Intro-to-Database-Systems-Fall-2022-1bb47b0f53aa4dc9a42fb7029e42a8af#1d33daea160f4f6db50ca087edbcc21f))
+  - [X] [04 - Database Storage 2](https://www.youtube.com/watch?v=2HtfGdsrwqA&list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf&index=4) ([Notes](https://www.notion.so/akshaya-balaji/CMU-Intro-to-Database-Systems-Fall-2022-1bb47b0f53aa4dc9a42fb7029e42a8af#1d33daea160f4f6db50ca087edbcc21f))
+  - [ ] [05 - Columnar Databases & Compression](https://www.youtube.com/watch?v=q4W5r3GR0OU&list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf&index=5)
 
 </details>
 
