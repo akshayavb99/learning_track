@@ -63,10 +63,6 @@ Partly following [System Design Primer Repository by Donne Martin](https://githu
 <h3>Inference and System Design</h3>
 
 - [ ] [Book: The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling, 3rd Edition](https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802/ref=sr_1_1?crid=3G9QBHWDUTMCT&keywords=the+data+warehouse+toolkit+3rd+edition&qid=1662913405&sprefix=the+data+warehouse+to%2Caps%2C102&sr=8-1)
-  - [X] Chapter 1: Data Warehousing, Business Intelligence, and Dimensional Modeling Primer
-  - [X] Chapter 2: Kimball Dimensional Modeling Techniques Overview
-  - [X] Chapter 3: Retail Sales
-  - [ ] Chapter 4: Inventory 
   
 <h3> Natural Language Processing </h3>
   
@@ -81,6 +77,7 @@ Partly following [System Design Primer Repository by Donne Martin](https://githu
     - [ ] Week 2: Parts of Speech Tagging and Hidden Markov Models
     - [ ] Week 3: Autocomplete and Language Models
     - [ ] Week 4: Word Embeddings with Neural Networks
+- [ ] [YouTube (Andrei Karpathy): Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
 </details>
 
