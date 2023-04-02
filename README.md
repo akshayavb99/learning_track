@@ -45,6 +45,7 @@ Partly following [System Design Primer Repository by Donne Martin](https://githu
 <h3> PyTorch </h3>
 
 - [ ] [YouTube (Daniel Bourke): Learn PyTorch for deep learning in a day. Literally.](https://www.youtube.com/watch?v=Z_ikDlimN6A)
+  - [ ] [Article version of the full PyTorch course by Daniel Bourke](https://www.learnpytorch.io/)
 - [ ] [Article: PyTorch Primer by Aman Chadha](https://aman.ai/primers/pytorch/)
   
 
