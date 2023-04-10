@@ -60,6 +60,7 @@ Partly following [System Design Primer Repository by Donne Martin](https://githu
   - [ ]  Chapter 2 - Statistical Learning
 - [ ] [Book: Designing Machine Learning Systems](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969/ref=sr_1_1?keywords=designing+ml+systems&qid=1680467099&s=books&sprefix=designing+ml+sy%2Cstripbooks%2C106&sr=1-1)
 - [ ] [GitHub (Google Research): Tuning Playbook](https://github.com/google-research/tuning_playbook)
+- [ ] [Practical Deep Learning for Coders](https://course.fast.ai)
 
 <h3>Inference and System Design</h3>
 
