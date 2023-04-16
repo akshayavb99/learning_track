@@ -81,6 +81,10 @@ Partly following [System Design Primer Repository by Donne Martin](https://githu
     - [ ] Week 3: Autocomplete and Language Models
     - [ ] Week 4: Word Embeddings with Neural Networks
 - [ ] [YouTube (Andrei Karpathy): Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+- [ ] PyTorch documentation
+    - [ ] [What is torch.nn really? - Jeremey Howard] (https://pytorch.org/tutorials/beginner/nn_tutorial.html)
+    - [ ] [Autograd] (https://pytorch.org/docs/stable/notes/autograd.html)
+    - [ ] [Extending PyTorch] (https://pytorch.org/docs/stable/notes/extending.html)
 
 </details>
 
