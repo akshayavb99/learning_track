@@ -1,0 +1,28 @@
+'''
+Question link - https://leetcode.com/problems/subsets-ii/description/
+'''
+class Solution:
+    def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
+
+        nums.sort()
+        result = []
+        subset = []
+
+        def dfs(idx):
+            if idx >= len(nums):
+                result.append(subset.copy())
+                return
+            
+            #Option 1: Add current index to subset
+            subset.append(nums[idx])
+            dfs(idx+1)
+
+            #Option 2: Do not add current index to subset
+            subset.pop()
+            while idx+1 < len(nums) and nums[idx] == nums[idx+1]:
+                idx+=1
+            dfs(idx+1)
+        
+        dfs(0)
+
+        return result
